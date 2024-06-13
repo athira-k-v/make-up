@@ -10,7 +10,10 @@ function Cards1() {
         <div className='card1'>
         <i class="fa-solid fa-indian-rupee-sign"></i> 499 Store
         </div>
+
        <br />
+
+       
         <CardGroup className='' >
                 <Card className='p-3'>
                     <Card.Img variant="top" src="https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/364558/foxtale-eye-candy-firming-eye-gel-20ml_1_display_1713868750_e874ef3b.jpg" />
@@ -97,13 +100,14 @@ function Cards1() {
                     </Card.Body>
                 </Card> */}
 
-            </CardGroup>
+        </CardGroup>
             <br /><br />
             
             <div className='card1'>
         <i class="fa-solid fa-indian-rupee-sign"></i> 299 Store
         </div>
         <br />
+
         <CardGroup >
 
                 <Card className='p-3'>
@@ -186,7 +190,7 @@ function Cards1() {
                     </Card.Body>
                 </Card> */}
 
-            </CardGroup>
+        </CardGroup>
         <br /><br />
         
         <div className='card1'>
@@ -194,7 +198,7 @@ function Cards1() {
         </div>
         <br />
             
-            <CardGroup >
+        <CardGroup >
                 <Card className='p-3'>
                     <Card.Img variant="top" src="https://media6.ppl-media.com//tr:h-750,w-750,c-at_max,dpr-2/static/img/product/325309/bella-vita-organic-honey-oud-eau-de-parfum-unisex-perfume-for-men-and-women-with-floral-fruity-flavour-and-fresh-scent-edp-fragrance-20-ml_6_display_1697087270_1ac35c52.jpg" />
                     <Card.Body>
@@ -272,13 +276,14 @@ function Cards1() {
                     </Card.Body>
                 </Card> */}
 
-            </CardGroup>
+        </CardGroup>
             <br /><br />
             <div className='card1'>
         <i class="fa-solid fa-indian-rupee-sign"></i> 99 Store
         </div>
 <br />
-            <CardGroup >
+
+        <CardGroup >
                 <Card className='p-3'>
                     <Card.Img variant="top" src="https://images-static.nykaa.com/media/catalog/product/a/5/a522820SWIAC00000242_1.jpg?tr=w-344,h-344,cm-pad_resize"/>
                     <Card.Body>
@@ -354,7 +359,12 @@ function Cards1() {
                     </Card.Body>
                 </Card> */}
 
-            </CardGroup> 
+        </CardGroup> 
+
+
+
+
+
             <br /><br />
     </div>
   )
